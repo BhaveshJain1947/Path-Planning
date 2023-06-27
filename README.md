@@ -30,6 +30,6 @@ License
 This project is licensed under the MIT License. Feel free to use, modify, and distribute the code for both commercial and non-commercial purposes.
 
 Contact
-If you have any questions, suggestions, or just want to say hello, feel free to reach out to us. You can contact the project maintainer at your-email@example.com.
+If you have any questions, suggestions, or just want to say hello, feel free to reach out to us. You can contact the project maintainer at b_jain@ch.iitr.ac.in.
 
 Happy path planning!
